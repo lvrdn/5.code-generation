@@ -11,8 +11,6 @@ import (
 	"text/template"
 )
 
-// код писать тут
-
 type tpl struct {
 	Param    string
 	Cond     string
